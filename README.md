@@ -1,8 +1,10 @@
-# Planet-1
+# Cosmic Resurgence
 
 A Unity 3D space-survival game with three planet stages, astronaut movement, oxygen pickups, health, lives, cutscenes, and scene progression.
 
 **Status:** archived coursework, documented and organized for source review. **Engine:** Unity 2022.3.47f1 / C#.
+
+Read the original [game design document and scope notes](docs/DESIGN_SCOPE.md) for the story, proposed worlds and the distinction between planned and implemented features.
 
 ## What is implemented
 
@@ -14,11 +16,11 @@ A Unity 3D space-survival game with three planet stages, astronaut movement, oxy
 
 ## Original project video
 
-[![Original Planet-1 cutscene preview](docs/media/poster.jpg)](docs/media/original-cutscene.mp4)
+[![Original Cosmic Resurgence cutscene preview](docs/media/poster.jpg)](docs/media/original-cutscene.mp4)
 
 [Watch the original in-game cutscene](docs/media/original-cutscene.mp4). This is original project footage, not a new playthrough.
 
-The preserved Windows build is distributed in [Releases](https://github.com/fizaamjd/Planet-1/releases). Extract the full archive before launching `Planet-1.exe`; the Data folder, UnityPlayer and Mono runtime must remain together.
+The preserved Windows build is distributed in [Releases](https://github.com/fizaamjd/Cosmic-Resurgence/releases). Extract the full archive before launching `Planet-1.exe`; the Data folder, UnityPlayer and Mono runtime must remain together.
 
 ## Run and inspect
 
