@@ -14,6 +14,8 @@ A Unity 3D space-survival game with three planet stages, astronaut movement, oxy
 
 ## Original project video
 
+[![Original Planet-1 cutscene preview](docs/media/poster.jpg)](docs/media/original-cutscene.mp4)
+
 [Watch the original in-game cutscene](docs/media/original-cutscene.mp4). This is original project footage, not a new playthrough.
 
 The preserved Windows build is distributed in [Releases](https://github.com/fizaamjd/Planet-1/releases). Extract the full archive before launching `Planet-1.exe`; the Data folder, UnityPlayer and Mono runtime must remain together.
