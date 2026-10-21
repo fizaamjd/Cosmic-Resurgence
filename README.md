@@ -22,6 +22,10 @@ Read the original [game design document and scope notes](docs/DESIGN_SCOPE.md) f
 
 The preserved Windows build is distributed in [Releases](https://github.com/fizaamjd/Cosmic-Resurgence/releases). Extract the full archive before launching `Planet-1.exe`; the Data folder, UnityPlayer and Mono runtime must remain together.
 
+## Native build
+
+A [macOS build helper and commands](docs/MAC_BUILD.md) are available. They require the complete original assets and Unity 2022.3.47f1. A successful native build and gameplay recording are still pending.
+
 ## Run and inspect
 
 Read [asset setup](docs/ASSET_SETUP.md) before opening Unity. This is an authored-source archive; imported artwork must be restored separately. Build scenes are retained in `ProjectSettings/EditorBuildSettings.asset`.
