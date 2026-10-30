@@ -14,6 +14,16 @@ Read the original [game design document and scope notes](docs/DESIGN_SCOPE.md) f
 - Oxygen-tank collision replenishes health; health and lives are carried through GameData.
 - The original timer uses a configurable time multiplier and the health decrement is frame-based, so behavior is frame-rate dependent.
 
+## Gameplay
+
+[![Cosmic Resurgence gameplay](docs/media/gameplay-poster.jpg)](docs/media/gameplay.mp4)
+
+[Watch the gameplay recording](docs/media/gameplay.mp4) (31 seconds). A recorded
+playthrough of the native macOS build, cut to one run across all three planets:
+the lava world, the ice world and the green world, each ending at the spaceship.
+Cross dissolves mark the planet changes; nothing else is altered and no footage
+is sped up.
+
 ## Original project video
 
 [![Original Cosmic Resurgence cutscene preview](docs/media/poster.jpg)](docs/media/original-cutscene.mp4)
@@ -24,7 +34,7 @@ The preserved Windows build is distributed in [Releases](https://github.com/fiza
 
 ## Native build
 
-A [macOS build helper and commands](docs/MAC_BUILD.md) are available. They require the complete original assets and Unity 2022.3.47f1. A successful native build and gameplay recording are still pending.
+A [macOS build helper and commands](docs/MAC_BUILD.md) are available. They require the complete original assets and Unity 2022.3.47f1. The native macOS build has been produced and run, and the gameplay recording above was taken from it.
 
 ## Run and inspect
 
